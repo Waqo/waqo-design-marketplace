@@ -1,0 +1,14 @@
+{
+  "name": "waqo-design",
+  "owner": {
+    "name": "Waqo"
+  },
+  "plugins": [
+    {
+      "name": "waqo-design",
+      "description": "Contemporary product-design practice for art direction, frontend implementation, critique, design systems, UX writing, accessibility, research synthesis, and developer handoff.",
+      "version": "2.0.0",
+      "source": "./plugins/waqo-design"
+    }
+  ]
+}
